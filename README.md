@@ -1,7 +1,7 @@
 # jsr352jbatch-linkcol
 JSR352 jBatch(Batch Application for the Java Platform)に関するリンク集
 
-[Set up JBeret](https://jberet.gitbooks.io/jberet-user-guide/content/set_up_jberet/)
+
 
 
 
